@@ -1,4 +1,4 @@
-# 🧠 Image processing Desktop Application 
+# Image processing Desktop Application 
 
 A **desktop-based computer vision application** built using **Python, PyQt, and OpenCV**.  
 This project provides an interactive GUI for applying and visualizing core image processing techniques in real-time.
