@@ -80,7 +80,7 @@ Resulting in perceptual multi-scale visualization
 ---
 
 ## 👥 Contributors
-|  [Nada Hesham](https://github.com/Nada-Hesham249)  | [Samar Hatem](https://github.com/samarhatem0405) | [Nada Hassan](https://github.com/Nadahassan147) | [Mostafa Ayman](https://github.com/mostafaayman646) | [Amr](https://github.com/Amr20545) |
+|  [Nada Hesham](https://github.com/Nada-Hesham249)  | [Samar Hatem](https://github.com/samarhatem0405) | [Nada Hassan](https://github.com/Nadahassan147) | [Mostafa Ayman](https://github.com/mostafaayman646) | [Amr](https://github.com/Amr2054) |
 |-------------------------------|---------------------------|-----------------------------------|-------------------------------|-------------------------------|
 
 
