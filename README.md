@@ -71,7 +71,7 @@ Resulting in perceptual multi-scale visualization
 
 ## 🧩 Tech Stack
 
-- Python 🐍  
+- Python   
 - PyQt (GUI Framework)  
 - OpenCV (Image Processing)  
 - NumPy (Numerical Computation)  
